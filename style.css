@@ -1,0 +1,79 @@
+h2{
+    font-size: 35px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    padding: 20px;
+}
+div{
+    font-size: 25px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 0px 5px 5px black;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.f1{
+    color: white;
+    font-size: 35px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+}
+nav a{
+    font-size: 25px;
+    color: white;
+    border: 1px solid white;
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 15px;
+}
+div a{
+    border: 1px solid black;
+    border-radius: 15px;
+    color: black;
+    font-size: 35px;
+    padding: 3px;
+    text-decoration: none;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    gap: 20px;
+}
+p{
+    padding: 10px;
+}
+div2{
+    font-size: 35px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 0px 5px 5px black;
+}
+label{
+    font-size: 30px;
+    padding: 20px;
+}
+form{
+    background-color: lightgrey
+}
+form input{
+    width: 1000px;
+}
+.app{
+    background-color: darkgray;
+}
